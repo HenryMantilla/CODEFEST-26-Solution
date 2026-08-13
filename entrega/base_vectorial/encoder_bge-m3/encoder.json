@@ -1,0 +1,7 @@
+{
+  "model": "BAAI/bge-m3",
+  "dim": 1024,
+  "n_vectors": 135124,
+  "doc_prefix": "",
+  "query_prefix": ""
+}
