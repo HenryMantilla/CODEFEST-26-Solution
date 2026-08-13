@@ -1,0 +1,8 @@
+# Ensure real actors (state names, agencies) are uncommented to KEEP them.
+#
+## 4527 chunks
+# nasa
+## 4271 chunks
+# esa
+## 3627 chunks
+# armed forces
